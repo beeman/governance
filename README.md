@@ -13,18 +13,18 @@ It's ran by:
 
 ## Rules
 
-- **Follow the [Code of Conduct](./CODE_OF_CONDUCT.md).**
+1. **Follow the [Code of Conduct](./CODE_OF_CONDUCT.md).**
 
-- **English is to be used in this guild.** Use of other languages is allowed in designated channels (based on @Moderator availability).
+1. **Use English only.** Use of other languages is allowed in designated channels (based on @Moderator availability).
 
-- **Do not spam users or channels.** Unsolicited pings are not allowed. Keep messages relevant to the channel they're in.
+1. **Do not spam users or channels.** Unsolicited pings are not allowed. Keep messages relevant to the channel they're in.
 
-- **Be civil and professional.** Personal attacks, harassment, and hate speech will not be tolerated.
+1. **Be civil and professional.** Personal attacks, harassment, and hate speech will not be tolerated.
 
-- **SFW content only.** Pornographic and extremist content is strictly forbidden.
+1. **SFW content only.** Pornographic and extremist content is strictly forbidden.
 
-- **Clean language only.** Inappropriate and offensive language is strictly forbidden.
+1. **Clean language only.** Inappropriate and offensive language is strictly forbidden.
 
-- **Follow the [Discord ToS](https://discord.com/terms).**
+1. **Follow the [Discord ToS](https://discord.com/terms).**
 
-- **@Staff and @Moderator always have the final decision.** Use a direct message if you would like clarification.
+1. **@Staff and @Moderator always have the final decision.** Use a direct message if you would like clarification.
