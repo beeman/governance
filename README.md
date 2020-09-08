@@ -21,7 +21,7 @@ It's ran by:
 
 1. **Be civil and professional.** Personal attacks, harassment, and hate speech will not be tolerated.
 
-1. **SFW content only.** Pornographic and extremist content is strictly forbidden.
+1. **Safe for work content only.** Pornographic, sexual innuendo, and extremist content is strictly forbidden.
 
 1. **Clean language only.** Inappropriate and offensive language is strictly forbidden.
 
