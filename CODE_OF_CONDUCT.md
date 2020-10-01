@@ -59,7 +59,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement in the [Discord guild](https://discord.gg/tXP8KzG)
+reported to the community leaders responsible for enforcement in the [Discord guild](https://discord.gg/angular)
 by messaging a @Staff or @Moderator member.
 All complaints will be reviewed and investigated promptly and fairly.
 

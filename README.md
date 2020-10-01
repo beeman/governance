@@ -10,7 +10,7 @@ It's ran by:
 
 ## Join us
 
-[Click here](https://discord.gg/tXP8KzG) to be invited to the guild.
+[Click here](https://discord.gg/angular) to be invited to the guild.
 
 ## Rules
 
