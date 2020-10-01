@@ -6,6 +6,7 @@ It's ran by:
 
 - [delasteve](https://github.com/delasteve)
 - [beeman](https://github.com/beeman)
+- [alex-okrushko](https://github.com/alex-okrushko)
 
 ## Join us
 
